@@ -1,13 +1,11 @@
-import React, { PureComponent } from 'react'
+import React from 'react'
 
-export class Landing extends PureComponent {
-    render() {
-        return (
-            <div>
-                <h1>Turnt off Tea</h1>
-            </div>
-        )
-    }
+const Landing = () => {
+  return (
+    <div>
+        
+    </div>
+  )
 }
 
 export default Landing
