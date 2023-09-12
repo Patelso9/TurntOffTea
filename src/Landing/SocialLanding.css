@@ -8,3 +8,12 @@ html{
     font-size: 80px;
 }
 
+.Button{
+    color: white;
+    border-color:white;
+    font-family: 'Didot, serif'
+}
+
+.social-button{
+    color: 'black';
+}
