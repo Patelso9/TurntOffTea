@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/TurntOffTea/static/css/main.ee677ab6.chunk.css",
-    "main.js": "/TurntOffTea/static/js/main.71b276bc.chunk.js",
-    "main.js.map": "/TurntOffTea/static/js/main.71b276bc.chunk.js.map",
+    "main.css": "/TurntOffTea/static/css/main.ed0ffcb0.chunk.css",
+    "main.js": "/TurntOffTea/static/js/main.193cc514.chunk.js",
+    "main.js.map": "/TurntOffTea/static/js/main.193cc514.chunk.js.map",
     "runtime-main.js": "/TurntOffTea/static/js/runtime-main.24c64aca.js",
     "runtime-main.js.map": "/TurntOffTea/static/js/runtime-main.24c64aca.js.map",
     "static/js/2.0fe53ddf.chunk.js": "/TurntOffTea/static/js/2.0fe53ddf.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.6fbc7ab7.chunk.js": "/TurntOffTea/static/js/3.6fbc7ab7.chunk.js",
     "static/js/3.6fbc7ab7.chunk.js.map": "/TurntOffTea/static/js/3.6fbc7ab7.chunk.js.map",
     "index.html": "/TurntOffTea/index.html",
-    "static/css/main.ee677ab6.chunk.css.map": "/TurntOffTea/static/css/main.ee677ab6.chunk.css.map",
+    "static/css/main.ed0ffcb0.chunk.css.map": "/TurntOffTea/static/css/main.ed0ffcb0.chunk.css.map",
     "static/js/2.0fe53ddf.chunk.js.LICENSE.txt": "/TurntOffTea/static/js/2.0fe53ddf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.24c64aca.js",
     "static/js/2.0fe53ddf.chunk.js",
-    "static/css/main.ee677ab6.chunk.css",
-    "static/js/main.71b276bc.chunk.js"
+    "static/css/main.ed0ffcb0.chunk.css",
+    "static/js/main.193cc514.chunk.js"
   ]
 }
