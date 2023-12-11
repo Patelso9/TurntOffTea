@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TurntOffTea/static/css/main.2b3126ae.chunk.css",
-    "main.js": "/TurntOffTea/static/js/main.a3396324.chunk.js",
-    "main.js.map": "/TurntOffTea/static/js/main.a3396324.chunk.js.map",
+    "main.js": "/TurntOffTea/static/js/main.cc6c2224.chunk.js",
+    "main.js.map": "/TurntOffTea/static/js/main.cc6c2224.chunk.js.map",
     "runtime-main.js": "/TurntOffTea/static/js/runtime-main.24c64aca.js",
     "runtime-main.js.map": "/TurntOffTea/static/js/runtime-main.24c64aca.js.map",
     "static/js/2.0fe53ddf.chunk.js": "/TurntOffTea/static/js/2.0fe53ddf.chunk.js",
@@ -12,12 +12,12 @@
     "index.html": "/TurntOffTea/index.html",
     "static/css/main.2b3126ae.chunk.css.map": "/TurntOffTea/static/css/main.2b3126ae.chunk.css.map",
     "static/js/2.0fe53ddf.chunk.js.LICENSE.txt": "/TurntOffTea/static/js/2.0fe53ddf.chunk.js.LICENSE.txt",
-    "static/media/tot_logo2.a4066a4f.png": "/TurntOffTea/static/media/tot_logo2.a4066a4f.png"
+    "static/media/tot_banner.d0898da5.png": "/TurntOffTea/static/media/tot_banner.d0898da5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.24c64aca.js",
     "static/js/2.0fe53ddf.chunk.js",
     "static/css/main.2b3126ae.chunk.css",
-    "static/js/main.a3396324.chunk.js"
+    "static/js/main.cc6c2224.chunk.js"
   ]
 }
